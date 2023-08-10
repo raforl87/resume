@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 50px 0;
+}
+
+
+.ro-m-backround {
+    background: url(../assets/img/bg-1.jpg) no-repeat center;
+}
+
+.ro-bg {
+    background-color: #462089;
+}
